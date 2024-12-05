@@ -83,5 +83,7 @@ The system follows an **Agent-Based Architecture** that orchestrates the interac
 ## Demo
 Watch the demo video to see the MediChat in action:
 
+https://github.com/user-attachments/assets/6dcfc062-cea0-4fc0-8a97-7f04c1405f24
+
 ## Contributing
 Feel free to fork the repository, raise issues, or contribute improvements via pull requests.
