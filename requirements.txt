@@ -1,0 +1,7 @@
+beautifulsoup4==4.12.3
+langchain==0.3.9
+langchain_community==0.3.9
+langchain_openai==0.2.11
+pydantic==2.10.3
+Requests==2.32.3
+streamlit==1.40.2
